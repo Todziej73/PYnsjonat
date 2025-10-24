@@ -1,0 +1,13 @@
+1;Jan;Kowalski;502123456
+2;Anna;Nowak;601987654
+3;Piotr;Wiśniewski;783654321
+4;Katarzyna;Zielińska;512345678
+5;Marek;Wójcik;798112233
+6;Agnieszka;Kamińska;605443322
+7;Tomasz;Lewandowski;721334455
+8;Maria;Dąbrowska;693221144
+9;Paweł;Szymański;501998877
+10;Ewa;Kozłowska;789665443
+11;herlupka;lubka;420420420
+12;brunon;posadzy;676767676
+13;bagginns;baginski;696969696
